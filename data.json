@@ -1,0 +1,20 @@
+[
+    {
+        "categoryName" : "Sofa",
+        "img": "https://media.istockphoto.com/id/1252414324/photo/green-sofa-on-white-background-with-a-plaid-and-pillow-3d-rendering.jpg?s=612x612&w=0&k=20&c=dOofzh_3PWjGLljiwPOXnXxpi4oENQTsOOuVgnsHBWc=",
+        "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+
+    },
+    {
+        "categoryName" : "Dining Table",
+        "img": "https://hatil.com/sites/default/files/styles/hatil_product_list_crop/public/Waffles-138%20and%20Macaroni-138_0.jpg?itok=S4TyZXUk",
+        "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+
+    },
+    {
+        "categoryName" : "Bed",
+        "img": "https://hatil.com/sites/default/files/styles/hatil_product_list_crop/public/Obsession-151%20.jpg?itok=wvE_20q0",
+        "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+
+    }
+]
