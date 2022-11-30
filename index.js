@@ -3,7 +3,7 @@ const cors = require('cors');
 const { MongoClient, ServerApiVersion, ObjectId } = require('mongodb');
 const app = express()
 const port = process.env.PORT || 5000;
-// const axios = require('axios').default;
+
 var bodyParser = require('body-parser');
 
 var jsonParser = bodyParser.json();
@@ -56,11 +56,10 @@ async function run(){
 run().catch(error => console.log(error));
 
 
-
 app.get('/', (req, res) => {
-    res.send('Hello World!')
+    res.send('Hello Earth!')
   })
   
-  app.listen(port, () => {
+app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
   })
